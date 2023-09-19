@@ -1,0 +1,7 @@
+com/app/springapp/service/impl/HastaServiceImpl.class
+com/app/springapp/service/HastaService.class
+com/app/springapp/SpringAppApplication.class
+com/app/springapp/repository/HastaRepository.class
+com/app/springapp/entity/Hasta.class
+com/app/springapp/controller/HastaController.class
+com/app/springapp/SpringAppApplication$1.class

@@ -1,0 +1,43 @@
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button[type="submit"] {
+    background-color: blueviolet;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button[type="submit"]:hover {
+    background-color: blueviolet;
+}
+.login-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Ekran yüksekliğine göre minimum yükseklik */
+    height: 60px; /* Sabit yükseklik (örnek olarak 60 piksel) */
+    margin-top: 50px;
+}
+h1 {
+    text-align: center; /* Metni ortala */
+    margin-right: 20px; /* Metni sağa kaydır */
+}
+

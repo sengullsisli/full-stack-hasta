@@ -1,0 +1,42 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+/* CSS dosyanıza ekleyin veya mevcut CSS dosyanıza ekleyin */
+
+/* Ana sayfa düğmeleri */
+.patient button {
+    padding: 5px 10px;
+    margin: 5px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+/* Hasta ekle düğmesi */
+.patient button.add-button {
+    background-color: #4CAF50; /* Yeşil renk */
+    color: white;
+    border: none;
+}
+
+/* Düzenle ve Sil düğmeleri */
+.patient button.edit-button, .patient button.delete-button {
+    background-color: #f44336; /* Kırmızı renk */
+    color: white;
+    border: none;
+}
+
+/* Düzenle ve Sil düğmelerinin üzerine geldiğinde rengini değiştirme */
+.patient button.edit-button:hover, .patient button.delete-button:hover {
+    background-color: #d32f2f; /* Koyu kırmızı renk */
+}

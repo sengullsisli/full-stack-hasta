@@ -1,0 +1,11 @@
+version: '3.1'
+services:
+  postgres:
+    image: postgres:latest
+    restart: always
+    environment:
+      POSTGRES_USER: kbs
+      POSTGRES_PASSWORD: kbs
+      POSTGRES_DB: kbs
+    ports:
+      - "5452:5432"

@@ -1,0 +1,6 @@
+/home/kolaysoft/IdeaProjects/homework/spring-app/src/main/java/com/app/springapp/SpringAppApplication.java
+/home/kolaysoft/IdeaProjects/homework/spring-app/src/main/java/com/app/springapp/repository/HastaRepository.java
+/home/kolaysoft/IdeaProjects/homework/spring-app/src/main/java/com/app/springapp/service/HastaService.java
+/home/kolaysoft/IdeaProjects/homework/spring-app/src/main/java/com/app/springapp/service/impl/HastaServiceImpl.java
+/home/kolaysoft/IdeaProjects/homework/spring-app/src/main/java/com/app/springapp/controller/HastaController.java
+/home/kolaysoft/IdeaProjects/homework/spring-app/src/main/java/com/app/springapp/entity/Hasta.java
